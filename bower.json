@@ -1,0 +1,23 @@
+{
+  "name": "stix-fonts",
+  "version": "0.0.0",
+  "authors": [
+    "Dick Choi <fluke8259@gmail.com>"
+  ],
+  "description": "Stix fonts",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "stix",
+    "stix-fonts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
